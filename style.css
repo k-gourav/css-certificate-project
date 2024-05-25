@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* max-height:100vh */
+body{
+    max-height: 100vh;
+    background-color: #FFC700;
+}
+.contact{
+    background-color: white;
+}
+.third-class{
+    background-color: white;
+}
+.new-bar{
+    width: 50%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 4.3rem;
+    margin-top: 7rem;
+    margin-left: 10rem;
+    margin-bottom: 1.8rem;
+}
+.list-bar{
+    color: #000000CC;
+    width: 45%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2.4rem;
+    margin-left: 10rem;
+    margin-top: 3.2rem;
+}
+.third-last-bar{
+    color: rgba(0, 0, 0, 0.1);
+    font-size: 10rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    line-height: 2.1rem;
+}
+.third-last-bar-1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #000000CC;
+    line-height: 2.2rem;
+}
+td{
+    padding: 0 1.2rem;
+}
+table{
+    margin-top: 10rem;
+    margin-left: 5rem;
+    column-gap: 10rem;
+}
+
+/* CSS FOR TEXT.HTML */
+.second-top-bar{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 3.2rem;
+    width: 40%;
+    margin-top: 93px;
+    margin-left: 7.88rem;
+}
+.underline-me{
+    text-decoration: underline;
+}
+.second-middle-bar{
+    width: 21%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 1.35rem;
+    line-height: 1.7rem;
+    margin-top: 3rem;
+    margin-left: 7.8rem;
+}
+.second-last-bar{
+    color: rgba(0, 0, 0, 0.1);
+    font-size: 9rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    margin-top: 8rem;
+    margin-left: 76px;
+}
+.aside-img{
+    margin-top: 5rem;
+}
+/* CSS FOR TEXT.HTML */
+.home-top-bar{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 3.4rem;
+    margin-top: 4rem;
+}
+.home-middle-bar{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-top: 1.7rem;
+}
